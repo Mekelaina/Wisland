@@ -25,14 +25,14 @@
             "id": "8f5d87f0d58f0c35",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "Wislandic Dctionary/Wisland Defininitions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Wisland Defininitions"
             }
           }
         ],
@@ -209,11 +209,11 @@
   },
   "active": "8f5d87f0d58f0c35",
   "lastOpenFiles": [
-    "Wislandic Dctionary/Wisland Defininitions.md",
     "Lore/Wislander Bio.md",
+    "Wislandic Dctionary/Wisland Defininitions.md",
+    "Lore/Units, Weights, and Measures.md",
     "Lang/Wislandic Romanization Conventions.md",
     "Wislandic Dctionary/Unit Definitions.md",
-    "Lore/Units, Weights, and Measures.md",
     "Wislandic Dctionary",
     "Lang/Untitled.md",
     "README.md",
