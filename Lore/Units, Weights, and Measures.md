@@ -7,7 +7,7 @@ Wislandic society has many native units for things, while global, SI units are n
 
 The basic unit of length is the *Omet*, the length of Wisleidenn's hand. Many cultures have created units of measurements based on shared cultural references such as barley corns or rulers body parts. But every person has different sized body parts, and every barley corn is unique. This is where the Lady of Wis once again serves as a shared candle in the darkness of the world. For she has been around since the first generation, and will continue to remain until the end of days. 
 
-Further more, the *omet* can be subdivided into 12ths, each fraction being 1 *Kleyu* or claw, as it is about the length of a wislander's claw. For the smallest of things, there is the *Sprek*. 1 Sprek is 1/12th of a Kleyu.
+Further more, the *Omet* can be subdivided into 12ths, each fraction being 1 *Kleyu* or claw, as it is about the length of a wislander's claw. For the smallest of things, there is the *Sprek*. 1 Sprek is 1/12th of a Kleyu.
 
 Likewise, 12 *Omette* is 1 *Hrak*, or wingspan. As it is roughly the span of Kon Drakki's wings in her common form.
 

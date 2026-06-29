@@ -30,28 +30,3 @@ The fictional landmass and country that is home to the Lady of Wis and her child
 
 1. (n.) A translation of the Wislandic word *Autlaki*. An outlander is anyone from the outlands. Not a wislander. Can be used as a pejorative depending on context.
 ---
-# Wisla
-*wisla*
-
-1. (n.) Wislandic word for Wisland.
----
-# Wislaki
-*wislaki, wislakilh, Wislakilh*
-
-1. (n.) Wislandic word for Wislander. Plural is Wislakilh
----
-# Wistankoe
-*wistankoe, Wistankoelh, wistankolh*
-
-1. (n.) Wislandic word for Child of Wis.
----
-# Autla
-*autla*
-
-1. (n.) See Outlands
----
-# Autlaki
-*autlaki, autlakilh, Autlakilh*
-
-1. (n.) See Outlander. Plural is Autlakilh
----
