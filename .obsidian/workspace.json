@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wislandic Dctionary/Wislandic Language Definitions.md",
+                "file": "Lore/Wislandic Currency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wislandic Language Definitions"
+              "title": "Wislandic Currency"
             }
           }
         ],
@@ -210,6 +210,7 @@
   "active": "8f5d87f0d58f0c35",
   "lastOpenFiles": [
     "Lore/Units, Weights, and Measures.md",
+    "Lore/Wislandic Currency.md",
     "Wislandic Dctionary/Wislandic Language Definitions.md",
     "Wislandic Dctionary/Wisland English Definitions.md",
     "Lore/Wislander Bio.md",
