@@ -4,17 +4,21 @@ The Wislandic Alki is not decimalized, and there can be no fractional amount, at
 
 ## Alki
 
-The Alki is the base coin, made of bonze
+The Alki is the base coin, made of bonze. it has 12 ridges.
 
 ## Tohlki
 
-The Tohlki or Tolh Alki, is equal to twelve Alkis. It is also 1/6th of a shiftohn. It is made of bronze like the Alki, but is slightly larger.
+The Tohlki or Tolh Alki, is equal to twelve Alkis. It is also 1/6th of a shiftohn. It is made of bronze like the Alki, but is slightly larger and has 12 ridges
 
 ## Shiftohn
 
+The Shiftohn, is equal to 60 Alki or 5 Tohlki. Shiftohn comes from the word for 60 (base 10). It is bigger than both the Alki and Tohlki and made of coper heavy electrum (a reddish yellow). It has 18 ridges
 ## Shalohn
 
+The Shalohn is equal to 36 shiftohn or 2160 Alki. It is 1/4th of a Krihr. It is slightly larger than the the shiftohn. It has 18 ridges.  
 ## Krihr
+
+The Krihr is the largest coin in circulation. The largest of the lot, with 24 ridges. It is made of a rose gold like alloy with a bright shine. it is equal to 144 shiftohns
 
 
 
