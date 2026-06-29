@@ -27,40 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/Untitled.md",
+                "file": "Lore/Units, Weights, and Measures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "4a83ee36b472b54b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Units, Weights, and Measures"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,15 +207,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a83ee36b472b54b",
+  "active": "8f5d87f0d58f0c35",
   "lastOpenFiles": [
-    "Lore/Wislander Bio.md",
-    "Lore/Units, Weights, and Measures.md",
     "Lang/Untitled.md",
-    "Lang/Base 12 (Dozenal).md",
+    "Lore/Units, Weights, and Measures.md",
     "Lang/Wislandic Romanization Conventions.md",
-    "Untitled.md",
     "README.md",
+    "Lore/Wislander Bio.md",
+    "Lang/Base 12 (Dozenal).md",
+    "Untitled.md",
     "Untitled Document",
     "test.md"
   ]
