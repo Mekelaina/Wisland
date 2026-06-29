@@ -23,3 +23,11 @@
 
 1. (n.) See Outlander. Plural is Autlakilh
 ---
+
+TODO: add defs for length units
+Fardem  
+Alfarda
+Hrak
+Omet
+Kleyu
+Sprek

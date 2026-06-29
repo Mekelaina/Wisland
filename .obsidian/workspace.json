@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Units, Weights, and Measures.md",
+                "file": "Wislandic Dctionary/Wislandic Language Definitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Units, Weights, and Measures"
+              "title": "Wislandic Language Definitions"
             }
           }
         ],
@@ -209,10 +209,10 @@
   },
   "active": "8f5d87f0d58f0c35",
   "lastOpenFiles": [
+    "Lore/Units, Weights, and Measures.md",
     "Wislandic Dctionary/Wislandic Language Definitions.md",
     "Wislandic Dctionary/Wisland English Definitions.md",
     "Lore/Wislander Bio.md",
-    "Lore/Units, Weights, and Measures.md",
     "Lang/Wislandic Romanization Conventions.md",
     "Wislandic Dctionary/Unit Definitions.md",
     "Wislandic Dctionary",
