@@ -1,6 +1,6 @@
 # Wisland Repo
 <hr/>
-This is a repo for all notes and work related to the world of wisland. The people, the language, story ideas, notes, concepts etc. 
+This is a repo for all notes and work related to the world of Wisland. The people, the language, story ideas, notes, concepts etc. 
 
 This is mostly for my own use, and to work on things as I have time and from multiple computers. Although nothing in this repo or any linked ones are *private* per se, this is all my own work. I ask that you be respectful of that. 
 

@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Wislander Bio.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -51,12 +51,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Wislander Bio"
+              "title": "README"
             }
           }
         ],
@@ -233,10 +233,12 @@
   },
   "active": "4a83ee36b472b54b",
   "lastOpenFiles": [
-    "Lang/Untitled.md",
-    "Lore/Units, Weights, and Measures.md",
-    "Lang/Base 12 (Dozenal).md",
     "Lore/Wislander Bio.md",
+    "Lore/Units, Weights, and Measures.md",
+    "Lang/Untitled.md",
+    "Lang/Base 12 (Dozenal).md",
+    "Lang/Wislandic Romanization Conventions.md",
+    "Untitled.md",
     "README.md",
     "Untitled Document",
     "test.md"
