@@ -12,6 +12,7 @@ No AI was or will be used for any part of this, and any I ask that any PRs do no
 Needless to say, this is not a codebase. It is a glorified notebook. Don't expect any build instructions or long term support. :p
 
 ### Obsidian plugins used:
+- [Obsidian Image Captions](https://github.com/alangrainger/obsidian-image-captions)
 - [Obsidian Syncable Dictionary](https://github.com/masoniis/obsidian-syncable-dictionary)
 - [Obsidian Custom Font Loader](https://github.com/pourmand1376/obsidian-custom-font)
 - [Obsidian Git](https://github.com/vinzent03/obsidian-git)
