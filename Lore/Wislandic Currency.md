@@ -22,3 +22,14 @@ The Krihr is the largest coin in circulation. The largest of the lot, with 24 ri
 
 
 
+```
+Alki = 1 Kleyu diamiter (15.35 mm)
+
+Tohlki = 1 Kleyu, 3 Sprek diameter (19.1876mm)
+
+Shiftohn = 1 Kleyu, 6 Sprek diameter (23.0252mm)
+
+Shaltohn = 1 Kleyu, 9 Sprek diameter (26.8328mm)
+
+Krihr = 2 Kleyu diameter (30.70mm)
+```
