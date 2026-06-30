@@ -13,28 +13,18 @@ The Alki is the base coin, made of bronze. It is 1 Kleyu in diameter (15.35 mm),
 
 ## Tohlki
 
-The Tohlki or Tolh Alki, is equal to twelve Alkis. It is also 1/5th of a shiftohn. It is made of bronze like the Alki, but is slightly larger and has 12 ridges
+The Tohlki or Tolh Alki, is equal to twelve Alkis. It is also 1/5th of a shiftohn. It is made of bronze like the Alki. It is 1 Kleyu and 3 Spreks in diameter (19.1876mm).
+
 
 ## Shiftohn
 
-The Shiftohn, is equal to 60 Alki or 5 Tohlki. Shiftohn comes from the word for 60 (base 10). It is bigger than both the Alki and Tohlki and made of copper heavy electrum (a reddish yellow). It has 18 ridges
+The Shiftohn, is equal to 60 Alki or 5 Tohlki. Shiftohn comes from the word for 60 (base 10). It is made of copper heavy electrum (a reddish yellow). It is 1 Kleyu and 6 Spreks diameter (23.0252mm).
 ## Shalohn
 
-The Shalohn is equal to 36 shiftohn or 2160 Alki. It is 1/4th of a Krihr. It is slightly larger than the the shiftohn. It has 18 ridges.  
+The Shalohn is equal to 36 shiftohn or 2160 Alki. It is 1/4th of a Krihr. It is slightly larger than the the shiftohn. It is 1 Kleyu and 9 Spreks in diameter (26.8328mm).
 ## Krihr
 
-The Krihr is the largest coin in circulation. The largest of the lot, with 24 ridges. It is made of a rose gold like alloy with a bright shine. it is equal to 144 shiftohns
+The Krihr is the largest coin in circulation. The largest of the lot, with 24 ridges. It is made of a rose gold like alloy with a bright shine. It is equal to 144 shiftohns. It is 2 Kleyus in diameter (30.70mm)
 
 
 
-```
-Alki = 1 Kleyu diamiter (15.35 mm)
-
-Tohlki = 1 Kleyu, 3 Sprek diameter (19.1876mm)
-
-Shiftohn = 1 Kleyu, 6 Sprek diameter (23.0252mm)
-
-Shaltohn = 1 Kleyu, 9 Sprek diameter (26.8328mm)
-
-Krihr = 2 Kleyu diameter (30.70mm)
-```
