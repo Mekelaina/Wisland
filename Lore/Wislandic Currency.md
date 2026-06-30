@@ -8,7 +8,7 @@ The Alki is the base coin, made of bronze. it has 12 ridges.
 
 ## Tohlki
 
-The Tohlki or Tolh Alki, is equal to twelve Alkis. It is also 1/6th of a shiftohn. It is made of bronze like the Alki, but is slightly larger and has 12 ridges
+The Tohlki or Tolh Alki, is equal to twelve Alkis. It is also 1/5th of a shiftohn. It is made of bronze like the Alki, but is slightly larger and has 12 ridges
 
 ## Shiftohn
 
