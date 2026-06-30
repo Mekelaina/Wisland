@@ -5,7 +5,7 @@ The Wislandic Alki is not decimalized, and there can be no fractional amount, at
 ## Alki
 
 The Alki is the base coin, made of bronze. It is 1 Kleyu in diameter (15.35 mm), approximately 1 Sprek In thickness. The obverse side has the Alki symbol in center with the digit '1' underneath.
-
+`TODO: Design motto/lang around center`
 
 | ![[digit_1.png\|Digit '1'\|80]] | ![[alki.png\|Alki Glyph\|100]] |
 | :-----------------------------: | :----------------------------: |
