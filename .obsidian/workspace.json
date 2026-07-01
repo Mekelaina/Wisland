@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wislandic Dctionary/Wislandic Language Definitions.md",
+                "file": "Lang/Wislandic Romanization Conventions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wislandic Language Definitions"
+              "title": "Wislandic Romanization Conventions"
+            }
+          },
+          {
+            "id": "b8017e820e12c06b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/Wislandic Nouns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wislandic Nouns"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "Units, Weights, and Measures"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6ff8570ff3e87c68",
@@ -226,10 +241,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94af1bf4da3427b6",
+  "active": "b8017e820e12c06b",
   "lastOpenFiles": [
-    "Lore/Units, Weights, and Measures.md",
+    "Lang/Untitled.md",
+    "Lang/Wislandic Nouns.md",
+    "Lang/Wislandic Romanization Conventions.md",
     "Wislandic Dctionary/Wislandic Language Definitions.md",
+    "Lore/Units, Weights, and Measures.md",
     "Lore/Wislander Bio.md",
     "Wislandic Dctionary/Wisland English Definitions.md",
     "Lore/Wislandic Calendar.md",
@@ -245,10 +263,8 @@
     "Images/alki.png",
     "Images/digit_1.png",
     "Images",
-    "Lang/Wislandic Romanization Conventions.md",
     "Wislandic Dctionary/Unit Definitions.md",
     "Wislandic Dctionary",
-    "Lang/Untitled.md",
     "Lang/Base 12 (Dozenal).md",
     "Untitled Document",
     "test.md"
