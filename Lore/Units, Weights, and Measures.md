@@ -17,14 +17,14 @@ The *Alfard*, or "Half Fardem", is half the length of a Fardem. (equivalent to 8
 
 ### Length Unit Table
 
-|  Unit   |      Measure      |
-| :-----: | :---------------: |
-| Fardem  | 3819.57m (3.8km)  |
-| Alfarda | 1909.785m (1.9km) |
-|  Hrak   |  221.04cm (2.2m)  |
-|  Omet   |      18.42cm      |
-|  Kleyu  |      1.535cm      |
-|  Sprek  |     1.2792mm      |
+|  Unit  |      Measure      |
+| :----: | :---------------: |
+| Fardem | 3819.57m (3.8km)  |
+| Alfard | 1909.785m (1.9km) |
+|  Hrak  |  221.04cm (2.2m)  |
+|  Omet  |      18.42cm      |
+| Kleyu  |      1.535cm      |
+| Sprek  |     1.2792mm      |
 
 
 
