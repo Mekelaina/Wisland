@@ -26,5 +26,12 @@ The *Alfard*, or "Half Fardem", is half the length of a Fardem. (equivalent to 8
 | Kleyu  |      1.535cm      |
 | Sprek  |     1.2792mm      |
 
+---
+## Weight
+
+The basic unit of weight is the *Yutan*, or "ingot", and refers to the weight of a standard sized ingot of pure gold. Yutan is also the word for ingots in general, so one must be careful to not confuse a count of ingots with the recording of weight.
+
+The standard ingot is 1 Omet long by 1 Omet wide by $\frac{1}{2}$ Omet tall.
+($l\times w\times h=1\times1\times\frac{1}{2}\ omet^3$) Pure gold has a density of $19.32\ g/cm^3$, so assuming a high purity of the refined gold, one can approximate the weight of a Yutan as $60,373g$ or $60.373kg$. For smaller weights, fractions of a Yutan are used. Often, weights are recorded in records as the fractional quantity of a Yutan with the letter {ye} put after to denote it is refering to weight. The letter {ye} being a shortening of *yutan/yutanne golkoe* or "ingot of gold" 
 
 

@@ -13,54 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Wislander Bio.md",
+                "file": "Lang/Wislandic Romanization Conventions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wislander Bio"
+              "title": "Wislandic Romanization Conventions"
             }
           },
           {
-            "id": "8f5d87f0d58f0c35",
+            "id": "b8017e820e12c06b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/Untitled.md",
+                "file": "Lore/Units, Weights, and Measures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Units, Weights, and Measures"
             }
           },
           {
-            "id": "4a83ee36b472b54b",
+            "id": "bef50bba80c3e142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/Wislandic Nouns.md",
+                "file": "Lore/Units, Weights, and Measures.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Wislandic Nouns"
+              "title": "Units, Weights, and Measures"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,29 +221,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a83ee36b472b54b",
+  "active": "b8017e820e12c06b",
   "lastOpenFiles": [
+    "Lore/Wislandic Currency.md",
     "Lore/Units, Weights, and Measures.md",
-    "Lore/Wislandic Calendar.md",
     "Lang/Wislandic Nouns.md",
+    "Lang/Wislandic Romanization Conventions.md",
+    "Lang/Untitled.md",
+    "Wislandic Dctionary/Wislandic Language Definitions.md",
+    "Lore/Wislander Bio.md",
+    "Wislandic Dctionary/Wisland English Definitions.md",
+    "Lore/Wislandic Calendar.md",
+    "Untitled.base",
     "Images/wis.png",
+    "Images/digit_12.png",
+    "Images/digit_3.png",
+    "Images/digit_0.png",
     "Images/shiftohn.png",
     "Images/krihr.png",
-    "Images/digit_3.png",
-    "Images/digit_12.png",
-    "Images/digit_1.png",
-    "Images/digit_0.png",
-    "Images/alki.png",
-    "Images",
-    "Lore/Wislandic Currency.md",
-    "Wislandic Dctionary/Wisland English Definitions.md",
-    "Wislandic Dctionary/Wislandic Language Definitions.md",
     "README.md",
-    "Lore/Wislander Bio.md",
-    "Lang/Wislandic Romanization Conventions.md",
-    "Lang/Base 12 (Dozenal).md",
+    "Images/alki.png",
+    "Images/digit_1.png",
+    "Images",
+    "Wislandic Dctionary/Unit Definitions.md",
     "Wislandic Dctionary",
-    "Lang/Untitled.md",
+    "Lang/Base 12 (Dozenal).md",
     "Untitled Document",
     "test.md"
   ]
