@@ -58,3 +58,16 @@
 
 1. (n.) A unit of area, equal to a square with a side length of 1 Alfard, or $Alfard^2$. Approximately $1909.785m^2$ (~$1.9km^2$).
 ---
+## Golh 
+*gohl, gohlle, gohls, Gohl, Gohlle, Gohls*
+`/gɔɬ/`
+
+1. (n. ) Gold, the substance.
+---
+## Yuta
+*yuta, yutanne, yutas, Yuta, Yutanne, Yutas*
+`/jutä/`
+
+1. (n. ) Ingot, as in the mold used for casting metals. Can also refer to the cast metals itself. 
+2. (n. ) A shortening of *Yutanne Golhn* (Ingots of Gold), which is the most common unit of weight in Wisland. 
+---
