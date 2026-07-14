@@ -29,7 +29,7 @@ The *Alfard*, or "Half Fardem", is half the length of a Fardem. (equivalent to 8
 ---
 ## Weight
 
-The basic unit of weight is the *Yutah*, or "ingot", and refers to the weight of a standard sized ingot of pure gold. Yutah is also the word for ingots in general, so one must be careful to not confuse a count of ingots with the recording of weight.
+The basic unit of weight is the *Yuta*, or "ingot", and refers to the weight of a standard sized ingot of pure gold. Yutah is also the word for ingots in general, so one must be careful to not confuse a count of ingots with the recording of weight.
 
 The standard ingot is 1 Omet long by 1 Omet wide by $\frac{1}{2}$ Omet tall.
 ($l\times w\times h=1\times1\times\frac{1}{2}\ omet^3$) Pure gold has a density of $19.32\ g/cm^3$, so assuming a high purity of the refined gold, one can approximate the weight of a Yutah as $60,373g$ or $60.373kg$. For smaller weights, fractions of a Yutah are used. Often, weights are recorded in records as the fractional quantity of a Yutah with the letter {ye} put after to denote it is referring to weight. The letter {ye} being a shortening of *yuta/yutalh golhn* or "ingot of gold" 
