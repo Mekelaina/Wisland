@@ -44,3 +44,5 @@ basic calendar, the first day of the new year is the spring equinox (give or tak
 |   14   |   15    |   16   |   17    |   18   |
 |   19   |   1A    |   1B   |   20    |   21   |
 |   22   |   23    |   24   |   25    |   26   |
+
+During the week of the nijera, the days are not officially called Anthal-Zental, although casually its not unheard of. But in formal contexts the days are just "first of nijera, second of nijera, etc", since some years it is 6 days due to leap year. (ithan nijeran, daula nijeran, sham nijeran, feina nijeran, shifan nijeran, hunna nijeran).
