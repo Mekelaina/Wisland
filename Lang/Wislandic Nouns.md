@@ -57,17 +57,17 @@ There are 5 main classes or declensions of noun in Wislandic.
 |      | Singular | Plural |
 | :--: | :------: | :----: |
 | Nom. |    -d    |  -da   |
-| Gen. |   -den   | -denne |
-| Acc. |   -th    |  -the  |
+| Gen. |   -den   | -dena  |
+| Acc. |   -th    |  -tha  |
 | Dat. |   -ds    |  -dse  |
 ## Ex: Leid *Lord/Lady*
 
-|      | Singular |  Plural  |
-| :--: | :------: | :------: |
-| Nom. |   Leid   |  Leida   |
-| Gen. |  Leiden  | Leidenne |
-| Acc. |  Leith   |  Leitha  |
-| Dat. |  Leids   |  Leidse  |
+|      | Singular | Plural  |
+| :--: | :------: | :-----: |
+| Nom. |   Leid   |  Leida  |
+| Gen. |  Leiden  | Leidena |
+| Acc. |  Leith   | Leitha  |
+| Dat. |  Leids   | Leidse  |
 
 ---
 ## K
