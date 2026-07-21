@@ -10,6 +10,7 @@ The precursors toil for 300 Jera, fighting for survival amidst the many new gods
 
 
 
-gotta plan out the mythos in the first, and second eras. Basically, first era is creation and the Age of the old gods, ending with the start of the Dark age. Second era is the Dark age leading into Precursor age. Third era starts with the creation of wisland and continues to modern day
+gotta plan out the mythos in the first, and second eras. Basically, first era is creation and the Age of the old gods, ending with the start of the Dark age. Second era is the Dark age leading into Precursor age. Third era starts with the creation of wisland and continues to modern day 
+
 
 
