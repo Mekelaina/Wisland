@@ -25,14 +25,14 @@
             "id": "a118332e3d3c3b4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Lore/Scratch.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/syncable-dictionary/data.json",
+                "bFile": ".obsidian/plugins/syncable-dictionary/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Scratch"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ],
@@ -209,8 +209,8 @@
   },
   "active": "a118332e3d3c3b4b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Lore/Scratch.md",
+    "conflict-files-obsidian-git.md",
     "Lang/Wislandic Nouns.md",
     "Lore/Wislandic Calendar.md",
     "Lore/Wislandic Theology.md",
