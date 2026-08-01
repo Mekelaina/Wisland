@@ -1,3 +1,6 @@
+---
+def-type: consolidated
+---
 # Wisla
 *wisla*
 

@@ -1,3 +1,6 @@
+---
+def-type: consolidated
+---
 # Wisland
 *Wisland's, Land of Wis, Land of Wis'*
 

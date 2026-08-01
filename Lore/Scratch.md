@@ -14,3 +14,6 @@ gotta plan out the mythos in the first, and second eras. Basically, first era is
 
 
 
+[[Wis | wis]]
+
+siw
