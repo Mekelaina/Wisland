@@ -1,0 +1,25 @@
+{
+  "languages": [
+    {
+      "name": "Wislandic",
+      "dictionaryFolder": "Made Up Words/Wislandic",
+      "hoverEnabled": true,
+      "sheets": [],
+      "inflections": []
+    }
+  ],
+  "activeLanguages": [
+    "Language 2",
+    "Wislandic"
+  ],
+  "primaryLanguage": "Wislandic",
+  "commitWrapper": "html-tooltip",
+  "hoverModifier": "shift",
+  "hoverFallback": "cypher",
+  "highlightKnownWords": true,
+  "highlightStyle": "underline",
+  "highlightConlang": true,
+  "highlightEnglish": true,
+  "caseSensitiveMatching": false,
+  "hasSeenWelcome": true
+}
