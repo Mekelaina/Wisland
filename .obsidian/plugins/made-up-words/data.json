@@ -1,0 +1,122 @@
+{
+  "languages": [
+    {
+      "name": "Wislandic",
+      "dictionaryFolder": "Made Up Words/Wislandic",
+      "hoverEnabled": true,
+      "inflections": [
+        {
+          "label": "plural",
+          "pattern": "th",
+          "position": "suffix",
+          "strip": "th",
+          "add": "",
+          "enabled": true,
+          "pos": "noun"
+        },
+        {
+          "label": "genitive",
+          "pattern": "en",
+          "position": "suffix",
+          "strip": "en",
+          "add": "",
+          "enabled": true,
+          "pos": "noun"
+        }
+      ],
+      "sheets": [
+        {
+          "name": "Common Words",
+          "enabled": false,
+          "rules": [
+            {
+              "input": "the",
+              "output": "ka",
+              "type": "word",
+              "enabled": true
+            },
+            {
+              "input": "and",
+              "output": "vel",
+              "type": "word",
+              "enabled": true
+            },
+            {
+              "input": "of",
+              "output": "no",
+              "type": "word",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "name": "Sounds",
+          "enabled": true,
+          "rules": [
+            {
+              "input": "th",
+              "output": "dh",
+              "type": "default",
+              "enabled": true
+            },
+            {
+              "input": "sh",
+              "output": "sk",
+              "type": "default",
+              "enabled": true
+            },
+            {
+              "input": "ch",
+              "output": "kh",
+              "type": "default",
+              "enabled": true
+            },
+            {
+              "input": "ph",
+              "output": "f",
+              "type": "default",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "name": "Vowels",
+          "enabled": true,
+          "rules": [
+            {
+              "input": "a",
+              "output": "ae",
+              "type": "default",
+              "enabled": true
+            },
+            {
+              "input": "e",
+              "output": "i",
+              "type": "default",
+              "enabled": true
+            },
+            {
+              "input": "o",
+              "output": "u",
+              "type": "default",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "activeLanguages": [
+    "Wislandic"
+  ],
+  "primaryLanguage": "Wislandic",
+  "commitWrapper": "html-tooltip",
+  "hoverModifier": "shift",
+  "hoverFallback": "cypher",
+  "highlightKnownWords": false,
+  "highlightStyle": "underline",
+  "highlightConlang": true,
+  "highlightEnglish": true,
+  "caseSensitiveMatching": false,
+  "hasSeenWelcome": true
+}

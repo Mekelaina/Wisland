@@ -17,3 +17,4 @@ Needless to say, this is not a codebase. It is a glorified notebook. Don't expec
 - [Obsidian Custom Font Loader](https://github.com/pourmand1376/obsidian-custom-font)
 - [Obsidian Git](https://github.com/vinzent03/obsidian-git)
 
+wis

@@ -1,6 +1,6 @@
 {
-  "enableInReadingView": true,
-  "enableOnLinks": true,
+  "enableInReadingView": false,
+  "enableOnLinks": false,
   "enableSpellcheck": true,
   "popoverEvent": "hover",
   "defFileParseConfig": {
@@ -18,7 +18,7 @@
     "maxWidth": 150,
     "maxHeight": 150,
     "popoverDismissEvent": "click",
-    "enableDefinitionLink": true
+    "enableDefinitionLink": false
   },
   "defFolder": "Wislandic Dctionary"
 }
