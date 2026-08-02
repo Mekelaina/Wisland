@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note.md",
+                "file": "DictionaryRedo/Melgaz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "Melgaz"
             }
           }
         ]
@@ -210,8 +210,13 @@
   },
   "active": "336868ff532dd823",
   "lastOpenFiles": [
-    "README.md",
+    "DictionaryRedo/Melga.md",
+    "DictionaryRedo/Melgaz.md",
+    "DictionaryRedo/Saiyer.md",
+    "DictionaryRedo/Melg.md",
+    "Lang/Wislandic Nouns.md",
     "note.md",
+    "README.md",
     "DictionaryRedo/Uslatankoe.md",
     "DictionaryRedo/Tankoe.md",
     "DictionaryRedo/Us.md",
@@ -221,8 +226,6 @@
     "DictionaryRedo/Usla.md",
     "DictionaryRedo/Tanki.md",
     "DictionaryRedo/Tan.md",
-    "DictionaryRedo/Saiyer.md",
-    "Lang/Wislandic Nouns.md",
     "DictionaryRedo/Antha.md",
     "DictionaryRedo/Aut.md",
     "DictionaryRedo/Autla.md",
@@ -233,9 +236,6 @@
     "DictionaryRedo/Ki.md",
     "DictionaryRedo/Koe.md",
     "DictionaryRedo/La.md",
-    "DictionaryRedo/Wis.md",
-    "DictionaryRedo/Wisla.md",
-    "Wislandic Dctionary/Wislandic Language Definitions.md",
     "DictionaryRedo",
     "Made Up Words/Wislandic",
     "Made Up Words",
