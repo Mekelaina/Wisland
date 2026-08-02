@@ -136,7 +136,7 @@ There are 5 main classes or declensions of noun in Wislandic.
 
 |      | Singular |  Plural  |
 | :--: | :------: | :------: |
-| Nom. |  Tunner  |  Tunnar  |
+| Nom. |  Tunnur  |  Tunnar  |
 | Gen. | Tunnurn  | Tunnarn  |
 | Acc. | Tunnurth | Tunnarth |
 | Dat. | Tunners  | Tunnars  |
