@@ -4,7 +4,15 @@ def-type: consolidated
 # Wisla
 *wisla*
 
-1. (n.) Wislandic word for Wisland.
+1. (n.) Wisland, The Land of Wis
+
+| Case | Sg. | Pl. |
+|:------:|:-----:|:-----:|
+| Nom. | Wisla | N/A |
+| Gen. | Wislan | N/A |
+| Acc. | Wislath  |N/A |
+| Dat. | Wislas | N/A |
+
 ---
 # Wislaki
 *wislaki, wislakilh, Wislakilh*
