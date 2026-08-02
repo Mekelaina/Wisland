@@ -44,6 +44,19 @@ Wislandic also has distinctive gemination. In its script, it has a specific lett
 
 [^1]: Wislandic has no voiced labial plosive /v/ or voiced dental fricative /ð/ natively. But has created letters to represent those sounds in foreign names and borrowed words. They are usually pronounced as their unvoiced counterpart.
 
+
+If a consonant is geminated that is romanized with a digraph or trigraph, then only the final letter of the digraph/trigraph should be doubled
+
+> [!Ex 1]
+> *ishe* - /iʃɛ/
+> *ishhe* - /iʃːɛ/
+
+> [!Ex 2]
+> *matlha* - /matɬa/
+> *matlhha* - /matɬːa/
+ 
+
+---
 ## Vowels
 Wislandic has 5 basic vowels, 5 diphthongs, then aspirated variants of each.
 
