@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/Numbers.md",
+                "file": "Lang/Articles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Numbers"
+              "title": "Articles"
             }
           }
         ]
@@ -210,8 +210,10 @@
   },
   "active": "336868ff532dd823",
   "lastOpenFiles": [
-    "Lang/Base 12 (Dozenal).md",
+    "Lang/Wislandic Nouns.md",
+    "Lang/Articles.md",
     "Lang/Numbers.md",
+    "Lang/Base 12 (Dozenal).md",
     "Lang/Wislandic Romanization Conventions.md",
     "Lang/Interrogative Pronouns.md",
     "Lang/Reflexive pronouns.md",
@@ -220,7 +222,6 @@
     "DictionaryRedo/Melga.md",
     "DictionaryRedo/Saiyer.md",
     "DictionaryRedo/Melg.md",
-    "Lang/Wislandic Nouns.md",
     "note.md",
     "README.md",
     "DictionaryRedo/Uslatankoe.md",
@@ -235,7 +236,6 @@
     "DictionaryRedo/Antha.md",
     "DictionaryRedo/Aut.md",
     "DictionaryRedo/Autla.md",
-    "DictionaryRedo/Autlaki.md",
     "DictionaryRedo",
     "Made Up Words/Wislandic",
     "Made Up Words",
