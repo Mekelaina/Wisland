@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/Articles.md",
+                "file": "Lore/Wislandic Currency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Articles"
+              "title": "Wislandic Currency"
             }
           }
         ]
@@ -210,8 +210,9 @@
   },
   "active": "336868ff532dd823",
   "lastOpenFiles": [
-    "Lang/Wislandic Nouns.md",
+    "Lore/Wislandic Calendar.md",
     "Lang/Articles.md",
+    "Lang/Wislandic Nouns.md",
     "Lang/Numbers.md",
     "Lang/Base 12 (Dozenal).md",
     "Lang/Wislandic Romanization Conventions.md",
@@ -235,7 +236,6 @@
     "DictionaryRedo/Tan.md",
     "DictionaryRedo/Antha.md",
     "DictionaryRedo/Aut.md",
-    "DictionaryRedo/Autla.md",
     "DictionaryRedo",
     "Made Up Words/Wislandic",
     "Made Up Words",
