@@ -1,8 +1,9 @@
 ---
+definition: Term for humans broadly, lit child of the unlanded
+language: Wislandic
 partOfSpeech: noun
 ipa: /uslatankoʊ/
 etymology: usla + tankoe
-definition: Term for humans broadly, lit child of the unlanded
 relatedWords: Usla, Tankoe
 ---
 | Case |     Sg.      |      Pl.      |

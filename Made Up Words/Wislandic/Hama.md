@@ -1,8 +1,9 @@
 ---
+definition: Omega parent
+language: Wislandic
 partOfSpeech: noun
 ipa: /hama/
 etymology: unknown
-definition: Omega parent
 ---
 | Case | Sg. | Pl. |
 |:------:|:-----:|:-----:|

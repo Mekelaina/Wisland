@@ -1,8 +1,9 @@
 ---
+definition: Milky, milk like, white
+language: Wislandic
 partOfSpeech: adjective
 ipa: /mɛlga/
 etymology: melg + fa
-definition: Milky, milk like, white
 relatedWords: Melg, Melgaz
 ---
 | Case |   Sg.   |   Pl.    |

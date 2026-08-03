@@ -1,8 +1,9 @@
 ---
+definition: The outlands. Lands outside of wisland. The rest of the world.
 partOfSpeech: noun
+language: Wislandic
 ipa: /autla/
 etymology: aut + la
-definition: The outlands. Lands outside of wisland. The rest of the world.
 relatedWords: Autlaki
 ---
 

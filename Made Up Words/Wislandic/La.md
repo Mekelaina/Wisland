@@ -1,8 +1,9 @@
 ---
+definition: land, country, place
+language: Wislandic
 partOfSpeech: noun
 ipa: /la/
 etymology: loosely from English "land"
-definition: land, country, place
 relatedWords: Wisla, Autla
 ---
 | Case | Sg.  |  Pl.  |

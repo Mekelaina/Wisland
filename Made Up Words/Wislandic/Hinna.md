@@ -1,8 +1,9 @@
 ---
+definition: Woman (Primary gender)
+language: Wislandic
 partOfSpeech: noun
 ipa: /hinːa/
 etymology: unknown
-definition: Woman (Primary gender)
 ---
 | Case | Sg. | Pl. |
 |:------:|:-----:|:-----:|

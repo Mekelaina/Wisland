@@ -1,8 +1,9 @@
 ---
+definition: Person, People (in the sense of multiple persons)
+language: Wislandic
 partOfSpeech: noun
 ipa: /ki/
 etymology: a priori
-definition: Person, People (in the sense of multiple persons)
 relatedWords: Autlaki,Wislaki,Uslaki,Tanki,Anthaki,Zennaki
 ---
 

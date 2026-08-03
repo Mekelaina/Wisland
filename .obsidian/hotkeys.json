@@ -1,0 +1,11 @@
+{
+  "note-definitions:refresh-definitions": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
+}

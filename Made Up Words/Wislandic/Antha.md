@@ -1,10 +1,10 @@
 ---
+definition: Alpha (Secondary Gender)
+language: Wislandic
 partOfSpeech: noun
 ipa: /anθa/
 etymology: N/A
-definition: Alpha (secondary gender)
 ---
-
 :3
 
 | Case |   Sg.   |   Pl.    |
@@ -13,3 +13,5 @@ definition: Alpha (secondary gender)
 | Gen. | Anthan  | Anthane  |
 | Acc. | Anthath | Anthathe |
 | Dat. | Anthas  | Anthasse |
+# Antha
+

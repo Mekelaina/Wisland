@@ -1,8 +1,9 @@
 ---
+definition: Omega (Secondary gender)
+language: Wislandic
 partOfSpeech: noun
 ipa: /zenːa/
 etymology: a priori
-definition: Omega (Secondary gender)
 ---
 :3
 
