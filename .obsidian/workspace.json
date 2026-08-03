@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note.md",
-                "mode": "source",
-                "source": false
+                "file": "Made Up Words/Wislandic/Antha.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "Antha"
             }
           }
         ]
@@ -177,6 +177,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ca800537ff88d9c9",
+            "type": "leaf",
+            "state": {
+              "type": "made-up-words-panel",
+              "state": {},
+              "icon": "book-open",
+              "title": "Made Up Words"
+            }
           }
         ],
         "currentTab": 5
@@ -194,40 +204,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "made-up-words:Open Made Up Words panel": false
     }
   },
   "active": "9aa8f74c8fb9c0fd",
   "lastOpenFiles": [
-    "Wislandic Dctionary/Wisland English Definitions.md",
-    "note.md",
-    "Wislandic Dctionary/Wislandic Language Definitions.md",
-    "DictionaryRedo/Antha.md",
-    "Lore/Units, Weights, and Measures.md",
+    "Made Up Words/Wislandic/Aut.md",
+    "Made Up Words/Wislandic/Autla.md",
+    "Made Up Words/Wislandic/Antha.md",
+    "Made Up Words/Wislandic/Zenna.md",
+    "Made Up Words/Wislandic/Wistankoe.md",
+    "Made Up Words/Wislandic/Wislaki.md",
+    "Made Up Words/Wislandic/Wisla.md",
+    "Made Up Words/Wislandic/Wis.md",
+    "Made Up Words/Wislandic/Uslatankoe.md",
+    "Made Up Words/Wislandic/Usla.md",
+    "Made Up Words/Wislandic/Us.md",
+    "Made Up Words/Wislandic/Tankoe.md",
+    "Made Up Words/Wislandic/Tanki.md",
+    "Made Up Words/Wislandic/Tan.md",
+    "Made Up Words/Wislandic/Saiyer.md",
+    "Made Up Words/Wislandic/Melgaz.md",
+    "Made Up Words/Wislandic/Melga.md",
+    "Made Up Words/Wislandic/Melg.md",
+    "Made Up Words/Wislandic/La.md",
+    "Made Up Words/Wislandic/Koe.md",
+    "Made Up Words/Wislandic/Ki.md",
+    "Made Up Words/Wislandic/Hinna.md",
+    "Made Up Words/Wislandic/Hama.md",
+    "Made Up Words/Wislandic/Hain.md",
+    "Made Up Words/Wislandic/Autlaki.md",
     "Lore/Scratch.md",
-    "README.md",
-    "Lang/Articles.md",
-    "Lang/Wislandic Nouns.md",
-    "Lang/Numbers.md",
-    "Lang/Base 12 (Dozenal).md",
-    "Lang/Wislandic Romanization Conventions.md",
-    "Lang/Interrogative Pronouns.md",
-    "Lang/Reflexive pronouns.md",
-    "Lang/Personal Pronouns.md",
-    "DictionaryRedo/Melgaz.md",
-    "DictionaryRedo/Melga.md",
-    "DictionaryRedo/Saiyer.md",
-    "DictionaryRedo/Melg.md",
-    "DictionaryRedo/Uslatankoe.md",
-    "DictionaryRedo/Tankoe.md",
-    "DictionaryRedo/Us.md",
-    "DictionaryRedo/Zenna.md",
-    "DictionaryRedo/Wistankoe.md",
-    "DictionaryRedo/Wislaki.md",
-    "DictionaryRedo/Usla.md",
-    "DictionaryRedo",
     "Made Up Words/Wislandic",
     "Made Up Words",
+    "DictionaryRedo",
     "DictionaryRedo",
     "Wislandic Dctionary"
   ]

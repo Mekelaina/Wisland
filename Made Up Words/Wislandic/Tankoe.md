@@ -1,8 +1,9 @@
 ---
+definition: Offspring, Child of, (used in sirnames)
+language: Wislandic
 partOfSpeech: noun
 ipa: /tankoʊ/
 etymology: tan + koe
-definition: Offspring, Child of, (used in sirnames)
 relatedWords: Wistankoe, Uslatankoe
 ---
 

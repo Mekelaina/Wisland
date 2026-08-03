@@ -1,4 +1,5 @@
 ---
+language: Wislandic
 partOfSpeech: noun
 ipa: /hain/
 etymology: unknown

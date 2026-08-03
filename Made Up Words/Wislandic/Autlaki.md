@@ -1,8 +1,9 @@
 ---
+language: Wislandic
+definition: Outlander, someone who is not a wislander
 partOfSpeech: noun
 ipa: /autlaki/
 etymology: aut + la + ki / autla + ki
-definition: Outlander, someone who is not a wislander
 ---
 | Case | Sg. | Pl. |
 |:------:|:-----:|:-----:|

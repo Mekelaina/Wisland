@@ -1,8 +1,9 @@
 ---
+definition: Milk
+language: Wislandic
 partOfSpeech: noun
 ipa: /mɛlg/
 etymology: from PIE root for milk
-definition: Milk
 relatedWords: Melga, Melgaz
 ---
 | Case |   Sg.   |   Pl.    |

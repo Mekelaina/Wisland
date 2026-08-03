@@ -1,8 +1,9 @@
 ---
+definition: Child of Wis
+language: Wislandic
 partOfSpeech: noun
 ipa: /ki/
 etymology: Wis + Tankoe
-definition: Child of Wis
 relatedWords: Wis, Tankoe
 ---
 Endonym for the people in Wisland. Specifically those in a covenant with The Lady of Wis. In contrast to Wislaki who is anyone who lives in Wisland. 

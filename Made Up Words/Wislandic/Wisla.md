@@ -1,8 +1,9 @@
 ---
+definition: Wisland, The Land of Wis
+language: Wislandic
 partOfSpeech: noun
 ipa: /wisla/
 etymology: wis + la
-definition: Wisland, The Land of Wis
 ---
 There is only one wisland, so the word never appears plural outside of a rare fictional or hypothetical context. Its plural is the same as {{La}}
 

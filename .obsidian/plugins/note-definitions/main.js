@@ -458,7 +458,8 @@ var DEFAULT_SETTINGS = {
       dash: true,
       underscore: false
     },
-    autoPlurals: false
+    autoPlurals: false,
+    enableCaseSensitive: false
   },
   defPopoverConfig: {
     displayAliases: true,
@@ -505,6 +506,13 @@ var SettingsTab = class extends import_obsidian.PluginSettingTab {
       component.setValue(this.settings.enableSpellcheck);
       component.onChange(async (val) => {
         this.settings.enableSpellcheck = val;
+        await this.saveCallback();
+      });
+    });
+    new import_obsidian.Setting(containerEl).setName("Enable Case Sensitivity").setDesc("Only match if the cases of both terms match").addToggle((component) => {
+      component.setValue(this.settings.defFileParseConfig.enableCaseSensitive);
+      component.onChange(async (val) => {
+        this.settings.defFileParseConfig.enableCaseSensitive = val;
         await this.saveCallback();
       });
     });
@@ -790,7 +798,12 @@ var LineScanner = class {
     let traversers = [];
     const phraseInfos = [];
     for (let i = 0; i < line.length; i++) {
-      const c = line.charAt(i).toLowerCase();
+      let c = "";
+      if (getSettings().defFileParseConfig.enableCaseSensitive) {
+        c = line.charAt(i);
+      } else {
+        c = line.charAt(i).toLowerCase();
+      }
       if (this.isValidStart(line, i)) {
         traversers.push(new PTreeTraverser(this.prefixTree));
       }
@@ -812,7 +825,12 @@ var LineScanner = class {
     return phraseInfos;
   }
   isValidEnd(line, ptr) {
-    const c = line.charAt(ptr).toLowerCase();
+    let c = "";
+    if (getSettings().defFileParseConfig.enableCaseSensitive) {
+      c = line.charAt(ptr);
+    } else {
+      c = line.charAt(ptr).toLowerCase();
+    }
     if (this.isNonSpacedLanguage(c)) {
       return true;
     }
@@ -823,7 +841,12 @@ var LineScanner = class {
   }
   // Check if this character is a valid start of a word depending on the context
   isValidStart(line, ptr) {
-    const c = line.charAt(ptr).toLowerCase();
+    let c = "";
+    if (getSettings().defFileParseConfig.enableCaseSensitive) {
+      c = line.charAt(ptr);
+    } else {
+      c = line.charAt(ptr).toLowerCase();
+    }
     if (c == " ") {
       return false;
     }
@@ -924,7 +947,10 @@ function getMarkedWordUnderCursor(editor) {
   return normaliseWord(currWord);
 }
 function normaliseWord(word) {
-  return word.trimStart().trimEnd().toLowerCase();
+  if (getSettings().defFileParseConfig.enableCaseSensitive)
+    return word.trimStart().trimEnd();
+  else
+    return word.trimStart().trimEnd().toLowerCase();
 }
 function getWordByOffset(offset) {
   const markedPhrases2 = getMarkedPhrases();
@@ -1020,11 +1046,12 @@ var AtomicDefParser = class extends BaseDefParser {
     if (fmPos) {
       fileContent = fileContent.slice(fmPos.end.offset + 1);
     }
+    let key = this.parseSettings.enableCaseSensitive ? this.file.basename : this.file.basename.toLowerCase();
     aliases = aliases.concat(
-      this.calculatePlurals([this.file.basename].concat(aliases))
+      this.calculatePlurals([key].concat(aliases))
     );
     const def = {
-      key: this.file.basename.toLowerCase(),
+      key,
       word: this.file.basename,
       aliases,
       definition: fileContent,
@@ -1194,9 +1221,12 @@ var ConsolidatedDefParser = class extends BaseDefParser {
     }
     return c;
   }
+  headerToKey(key) {
+    return this.parseSettings.enableCaseSensitive ? key : key.toLowerCase();
+  }
   defBlockToDefinition(blk) {
     return {
-      key: blk.header.toLowerCase(),
+      key: this.headerToKey(blk.header),
       word: blk.header,
       aliases: blk.aliases.concat(
         this.calculatePlurals([blk.header].concat(blk.aliases))
@@ -1572,7 +1602,9 @@ var DefinitionRepo = class {
     defMap.set(def.key, def);
     if (def.aliases.length > 0) {
       def.aliases.forEach((alias) => {
-        if (defMap) {
+        if (defMap && getSettings().defFileParseConfig.enableCaseSensitive) {
+          defMap.set(alias, def);
+        } else if (defMap) {
           defMap.set(alias.toLowerCase(), def);
         }
       });
@@ -2822,5 +2854,3 @@ var NoteDefinition = class extends import_obsidian11.Plugin {
     getDefinitionPopover().cleanUp();
   }
 };
-
-/* nosourcemap */

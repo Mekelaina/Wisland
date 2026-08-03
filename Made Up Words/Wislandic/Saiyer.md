@@ -1,8 +1,9 @@
 ---
+definition: Alpha Parent
+language: Wislandic
 partOfSpeech: noun
 ipa: /saijɛɾ/
 etymology: from English "sire"
-definition: Alpha Parent
 ---
 | Case |   Sg.    |    Pl.    |
 | :--: | :------: | :-------: |
