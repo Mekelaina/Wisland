@@ -3,7 +3,7 @@ definition: Alpha (Secondary Gender)
 language: Wislandic
 partOfSpeech: noun
 ipa: /anθa/
-etymology: N/A
+etymology: a priori
 ---
 :3
 

@@ -1,9 +1,9 @@
 ---
+definition: Man (Primary gender)
 language: Wislandic
 partOfSpeech: noun
 ipa: /hain/
-etymology: unknown
-definition: Man (Primary gender)
+etymology: a priori
 ---
 | Case | Sg. | Pl. |
 |:------:|:-----:|:-----:|

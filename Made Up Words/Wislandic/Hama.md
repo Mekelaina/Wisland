@@ -3,7 +3,7 @@ definition: Omega parent
 language: Wislandic
 partOfSpeech: noun
 ipa: /hama/
-etymology: unknown
+etymology: a priori
 ---
 | Case | Sg. | Pl. |
 |:------:|:-----:|:-----:|

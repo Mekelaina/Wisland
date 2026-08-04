@@ -3,7 +3,7 @@ definition: Woman (Primary gender)
 language: Wislandic
 partOfSpeech: noun
 ipa: /hinːa/
-etymology: unknown
+etymology: a priori
 ---
 | Case | Sg. | Pl. |
 |:------:|:-----:|:-----:|
