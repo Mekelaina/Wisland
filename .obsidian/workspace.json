@@ -11,14 +11,14 @@
             "id": "336868ff532dd823",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/made-up-words/data.json",
-                "bFile": ".obsidian/plugins/made-up-words/data.json",
-                "aRef": ""
+                "file": "note.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "note"
             }
           }
         ]
@@ -210,9 +210,9 @@
   },
   "active": "336868ff532dd823",
   "lastOpenFiles": [
+    "Made Up Words/Wislandic/Alki.md",
     "Made Up Words/Wislandic/Antha.md",
     "Made Up Words/Wislandic/Alkoeh.md",
-    "Made Up Words/Wislandic/Alki.md",
     "Made Up Words/Wislandic/Kala.md",
     "note.md",
     "Made Up Words/Wislandic/Tohlki.md",
