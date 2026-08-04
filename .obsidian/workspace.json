@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7a7217f15ee5ff65",
+        "id": "f1f766f1c628cba0",
         "type": "tabs",
         "children": [
           {
-            "id": "dd03a92fb562e8ec",
+            "id": "336868ff532dd823",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/syncable-dictionary/data.json",
-                "bFile": ".obsidian/plugins/syncable-dictionary/data.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Made Up Words/Wislandic/Dauna.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Index)"
+              "icon": "lucide-file",
+              "title": "Dauna"
             }
           }
         ]
@@ -178,6 +177,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "17d761f3bc7f4d28",
+            "type": "leaf",
+            "state": {
+              "type": "made-up-words-panel",
+              "state": {},
+              "icon": "book-open",
+              "title": "Made Up Words"
+            }
           }
         ],
         "currentTab": 5
@@ -195,13 +204,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "made-up-words:Open Made Up Words panel": false
     }
   },
-  "active": "dd03a92fb562e8ec",
+  "active": "336868ff532dd823",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Wislandic Dctionary/Wislandic Language Definitions.md",
-    "README.md"
+    "Made Up Words/Wislandic/Autla.md",
+    "Made Up Words/Wislandic/Aut.md",
+    "Made Up Words/Wislandic/Antha.md",
+    "Lang/Adjectives.md",
+    "Lang/Articles.md",
+    "Made Up Words/Wislandic/Daunak.md",
+    "Made Up Words/Wislandic/Dauna.md",
+    "Lang/Base 12 (Dozenal).md",
+    "Lang/Interrogative Pronouns.md",
+    "Lang/Numbers.md",
+    "Lang/Wislandic Nouns.md",
+    "Lang/Reflexive Pronouns.md",
+    "Made Up Words/Wislandic/Melgaz.md",
+    "Made Up Words/Wislandic/Autlaki.md",
+    "Made Up Words/Wislandic/Alkoeh.md",
+    "Made Up Words/Wislandic/Alki.md",
+    "note.md",
+    "Made Up Words/Wislandic/Kala.md",
+    "Made Up Words/Wislandic/Tohlki.md",
+    "Made Up Words/Wislandic/Zenna.md",
+    "Made Up Words/Wislandic/Wistankoe.md",
+    "Made Up Words/Wislandic/Wislaki.md",
+    "Made Up Words/Wislandic/Wisla.md",
+    "Made Up Words/Wislandic/Wis.md",
+    "Made Up Words/Wislandic/Uslatankoe.md",
+    "Made Up Words/Wislandic/Usla.md",
+    "Made Up Words/Wislandic",
+    "Made Up Words",
+    "DictionaryRedo",
+    "DictionaryRedo",
+    "Wislandic Dctionary"
   ]
 }
