@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f1f766f1c628cba0",
+        "id": "caf826dbcbf67d89",
         "type": "tabs",
         "children": [
           {
-            "id": "336868ff532dd823",
+            "id": "2cf2f0a936938a2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Made Up Words/Wislandic/Dauna.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Made Up Words/Wislandic/Dauna.md",
+                "bFile": "Made Up Words/Wislandic/Dauna.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Dauna"
+              "icon": "diff",
+              "title": "Diff: Dauna  (Working Tree)"
             }
           }
         ]
@@ -208,15 +208,15 @@
       "made-up-words:Open Made Up Words panel": false
     }
   },
-  "active": "336868ff532dd823",
+  "active": "2cf2f0a936938a2a",
   "lastOpenFiles": [
+    "Made Up Words/Wislandic/Dauna.md",
     "Made Up Words/Wislandic/Autla.md",
     "Made Up Words/Wislandic/Aut.md",
     "Made Up Words/Wislandic/Antha.md",
     "Lang/Adjectives.md",
     "Lang/Articles.md",
     "Made Up Words/Wislandic/Daunak.md",
-    "Made Up Words/Wislandic/Dauna.md",
     "Lang/Base 12 (Dozenal).md",
     "Lang/Interrogative Pronouns.md",
     "Lang/Numbers.md",
