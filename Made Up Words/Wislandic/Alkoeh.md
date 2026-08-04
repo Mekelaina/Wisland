@@ -4,7 +4,17 @@ language: Wislandic
 partOfSpeech: noun
 ipa: /alkoʊh/
 etymology: a priori
+forms:
+  - "Nom. Singular: Alkoeh"
+  - "Nom. Plural: Alkoehlh"
+  - "Gen. Singular: Alkoehn"
+  - "Gen. Plural: Alkoehnne"
+  - "Acc. Singular: Alkoehth"
+  - "Acc. Plural: Alkoehthe"
+  - "Dat. Singular: Alkoehs"
+  - "Dat. Plural: Alkoehsse"
 ---
+
 | Case |   Sg.    |    Pl.    |
 | :--: | :------: | :-------: |
 | Nom. |  Alkoeh  | Alkoehlh  |

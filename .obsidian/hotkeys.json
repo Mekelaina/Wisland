@@ -7,5 +7,14 @@
       ],
       "key": "R"
     }
+  ],
+  "made-up-words:reload-dictionary": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
