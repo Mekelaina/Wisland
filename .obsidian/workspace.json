@@ -11,14 +11,14 @@
             "id": "2cf2f0a936938a2a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Made Up Words/Wislandic/Dauna.md",
-                "bFile": "Made Up Words/Wislandic/Dauna.md",
-                "aRef": ""
+                "file": "Made Up Words/Wislandic/Autlaki.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: Dauna  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Autlaki"
             }
           }
         ]
@@ -210,10 +210,13 @@
   },
   "active": "2cf2f0a936938a2a",
   "lastOpenFiles": [
-    "Made Up Words/Wislandic/Dauna.md",
     "Made Up Words/Wislandic/Autla.md",
+    "Made Up Words/Wislandic/Autlaki.md",
     "Made Up Words/Wislandic/Aut.md",
+    "Made Up Words/Wislandic/Alkoeh.md",
     "Made Up Words/Wislandic/Antha.md",
+    "Made Up Words/Wislandic/Tan.md",
+    "Made Up Words/Wislandic/Dauna.md",
     "Lang/Adjectives.md",
     "Lang/Articles.md",
     "Made Up Words/Wislandic/Daunak.md",
@@ -223,8 +226,6 @@
     "Lang/Wislandic Nouns.md",
     "Lang/Reflexive Pronouns.md",
     "Made Up Words/Wislandic/Melgaz.md",
-    "Made Up Words/Wislandic/Autlaki.md",
-    "Made Up Words/Wislandic/Alkoeh.md",
     "Made Up Words/Wislandic/Alki.md",
     "note.md",
     "Made Up Words/Wislandic/Kala.md",
@@ -235,7 +236,6 @@
     "Made Up Words/Wislandic/Wisla.md",
     "Made Up Words/Wislandic/Wis.md",
     "Made Up Words/Wislandic/Uslatankoe.md",
-    "Made Up Words/Wislandic/Usla.md",
     "Made Up Words/Wislandic",
     "Made Up Words",
     "DictionaryRedo",
