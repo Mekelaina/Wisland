@@ -1,9 +1,9 @@
 ---
-definition: Name of geminate marking letter of Wislandic alphabet
+definition: Twin; Name of geminate marking letter of Wislandic alphabet
 language: Wislandic
 partOfSpeech: noun
 ipa: /daunak/
-etymology: dauna + k to distinguish it
+etymology: dauna + k (renominalization 1 marker)
 ---
 | Case | Sg. | Pl. |
 |:------:|:-----:|:-----:|
