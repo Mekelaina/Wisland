@@ -4,11 +4,20 @@ language: Wislandic
 partOfSpeech: noun
 ipa: /daunak/
 etymology: dauna + k (renominalization 1 marker)
+forms:
+  - "Nom. Singular: Daunak"
+  - "Nom. Plural: Daunakke"
+  - "Gen. Singular: Daunakn"
+  - "Gen. Plural: Daunaken"
+  - "Acc. Singular: Daunakth"
+  - "Acc. Plural: Daunakthe"
+  - "Dat. Singular: Daunaks"
+  - "Dat. Plural: Daunakse"
 ---
 | Case | Sg. | Pl. |
 |:------:|:-----:|:-----:|
 | Nom. | Daunak | Daunakke |
-| Gen. | Daunakn | Daunakan |
+| Gen. | Daunakn | Daunaken |
 | Acc. | Daunakth | Daunakthe |
 | Dat. | Daunaks | Daunakse |
 
