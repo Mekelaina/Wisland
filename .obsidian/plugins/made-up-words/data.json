@@ -4,7 +4,16 @@
       "name": "Wislandic",
       "dictionaryFolder": "Made Up Words/Wislandic",
       "hoverEnabled": true,
-      "inflections": [],
+      "inflections": [
+        {
+          "label": "plural",
+          "pattern": "",
+          "position": "suffix",
+          "strip": "",
+          "add": "",
+          "enabled": true
+        }
+      ],
       "sheets": [
         {
           "name": "Common Words",
@@ -93,11 +102,12 @@
   "primaryLanguage": "Wislandic",
   "commitWrapper": "html-tooltip",
   "hoverModifier": "shift",
-  "hoverFallback": "cypher",
+  "hoverFallback": "nothing",
   "highlightKnownWords": true,
   "highlightStyle": "underline",
   "highlightConlang": true,
   "highlightEnglish": true,
   "caseSensitiveMatching": false,
+  "showFormsInTooltip": true,
   "hasSeenWelcome": true
 }
