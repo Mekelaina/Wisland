@@ -4,6 +4,15 @@ language: Wislandic
 partOfSpeech: noun
 ipa: /zenːa/
 etymology: a priori
+forms:
+  - "Nom. Singular: Zenna"
+  - "Nom. Plural: Zennalh"
+  - "Gen. Singular: Zennan"
+  - "Gen. Plural: Zennane"
+  - "Acc. Singular: Zennath"
+  - "Acc. Plural: Zennathe"
+  - "Dat. Singular: Zennas"
+  - "Dat. Plural: Zennase"
 ---
 :3
 
