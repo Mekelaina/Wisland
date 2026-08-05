@@ -8,7 +8,7 @@ forms:
   - "Nom. Singular: Daunak"
   - "Nom. Plural: Daunakke"
   - "Gen. Singular: Daunakn"
-  - "Gen. Plural: Daunaken"
+  - "Gen. Plural: Daunakne"
   - "Acc. Singular: Daunakth"
   - "Acc. Plural: Daunakthe"
   - "Dat. Singular: Daunaks"
@@ -17,7 +17,7 @@ forms:
 | Case | Sg. | Pl. |
 |:------:|:-----:|:-----:|
 | Nom. | Daunak | Daunakke |
-| Gen. | Daunakn | Daunaken |
+| Gen. | Daunakn | Daunakne |
 | Acc. | Daunakth | Daunakthe |
 | Dat. | Daunaks | Daunakse |
 

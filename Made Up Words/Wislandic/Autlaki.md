@@ -12,7 +12,7 @@ forms:
   - "Acc. Singular: Autlakith"
   - "Acc. Plural: Autlakithe"
   - "Dat. Singular: Autlakis"
-  - "Dat. Plural: autlakisse"
+  - "Dat. Plural: Autlakisse"
 ---
 | Case |    Sg.    |    Pl.     |
 | :--: | :-------: | :--------: |
