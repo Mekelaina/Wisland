@@ -14,9 +14,9 @@ forms:
   - "Dat. Singular: Hamas"
   - "Dat. Plural: Hamasse"
 ---
-| Case | Sg. | Pl. |
-|:------:|:-----:|:-----:|
-| Nom. | Hama | Hamalh |
-| Gen. | Haman | Hamanne |
+| Case |  Sg.   |   Pl.   |
+| :--: | :----: | :-----: |
+| Nom. |  Hama  | Hamalh  |
+| Gen. | Haman  | Hamanne |
 | Acc. | Hamath | Hamathe |
-| Dat. | Hamas | Hamasse |
+| Dat. | Hamas  | Hamasse |

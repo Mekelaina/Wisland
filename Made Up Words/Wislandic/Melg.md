@@ -15,9 +15,9 @@ forms:
   - "Dat. Singular: Melgs"
   - "Dat. Plural: Melgse"
 ---
-| Case |   Sg.   |   Pl.    |
-| :--: | :-----: | :------: |
-| Nom. |  Melg   |  Melge   |
+| Case |  Sg.   |   Pl.   |
+| :--: | :----: | :-----: |
+| Nom. |  Melg  |  Melge  |
 | Gen. | Melgn  | Melgne  |
 | Acc. | Melgth | Melgthe |
-| Dat. | Melgs  | Melgse |
+| Dat. | Melgs  | Melgse  |
