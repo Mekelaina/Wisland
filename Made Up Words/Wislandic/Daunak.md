@@ -14,12 +14,12 @@ forms:
   - "Dat. Singular: Daunaks"
   - "Dat. Plural: Daunakse"
 ---
-| Case | Sg. | Pl. |
-|:------:|:-----:|:-----:|
-| Nom. | Daunak | Daunakke |
-| Gen. | Daunakn | Daunakne |
+| Case |   Sg.    |    Pl.    |
+| :--: | :------: | :-------: |
+| Nom. |  Daunak  | Daunakke  |
+| Gen. | Daunakn  | Daunakne  |
 | Acc. | Daunakth | Daunakthe |
-| Dat. | Daunaks | Daunakse |
+| Dat. | Daunaks  | Daunakse  |
 
 # Daunak
 

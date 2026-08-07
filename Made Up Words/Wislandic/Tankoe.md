@@ -22,3 +22,5 @@ forms:
 | Gen. | Tankoen | Tankoenne |
 | Acc. | Tankoeth | Tankoethe |
 | Dat. | Tankoes | Tankoesse |
+
+# Tankoe

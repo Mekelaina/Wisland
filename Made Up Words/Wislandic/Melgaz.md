@@ -23,3 +23,5 @@ Melgaz is the word for both our galaxy, and galaxies conceptually. Mostly used f
 | Gen. | Melgazin  | Melgazine  |
 | Acc. | Melgazith | Melgazithe |
 | Dat. |  Melgazh  | Melgazhe  |
+
+# Melgaz

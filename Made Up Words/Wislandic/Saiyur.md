@@ -14,8 +14,8 @@ forms:
   - "Dat. Singular: Saiyurs"
   - "Dat. Plural: Saiyars"
 ---
-| Case |   Sg.    |    Pl.    |
-| :--: | :------: | :-------: |
+| Case |   Sg.    |   Pl.    |
+| :--: | :------: | :------: |
 | Nom. |  Saiyur  |  Saiyar  |
 | Gen. | Saiyurn  | Saiyarn  |
 | Acc. | Saiyurth | Saiyarth |

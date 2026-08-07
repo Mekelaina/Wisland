@@ -23,3 +23,5 @@ General term for those who are older than a toddler, but are prepubescent. When 
 | Gen. | Tankin | Tankinne|
 | Acc. | Tankith | Tankithe |
 | Dat. | Tankis | Tankisse |
+
+# Tanki

@@ -22,3 +22,5 @@ forms:
 | Gen. | Tanna | Tannen |
 | Acc. | Tanth | Tanthe |
 | Dat. | Tans | Tanse |
+
+# Tan

@@ -21,3 +21,5 @@ forms:
 | Gen. | Melgn  | Melgne  |
 | Acc. | Melgth | Melgthe |
 | Dat. | Melgs  | Melgse  |
+
+# Melg

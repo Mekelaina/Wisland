@@ -21,5 +21,6 @@ forms:
 | Gen. | Tohlkin  | Tohlkinne |
 | Acc. | Tohlkith | Tohlkithe |
 | Dat. | Tohlkis  | Tohlkisse |
+
 # Tohlki
 
