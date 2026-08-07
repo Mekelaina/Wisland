@@ -14,12 +14,12 @@ Wislandic personal pronouns are fairly straight forward, but there is an exclusi
 ---
 ### 2nd person
 
-|      | Singular | Plural |
-| :--: | :------: | :----: |
-| Nom. |   tsu    | tsulh  |
-| Gen. |   tsun   | tsunne |
-| Acc. |   thu    | thulh  |
-| Dat. |   thus   | thusse |
+|      | Singular | Plural  |
+| :--: | :------: | :-----: |
+| Nom. |   tsu    |  tsulh  |
+| Gen. |   tsun   | tsunelh |
+| Acc. |   thu    |  thulh  |
+| Dat. |   thus   | thusse  |
 
 ---
 ### 3rd person (for people)
@@ -47,7 +47,7 @@ Wislandic personal pronouns are fairly straight forward, but there is an exclusi
 |      | Singular | Plural |
 | :--: | :------: | :----: |
 | Nom. |    et    |  eta   |
-| Gen. |   etn    |  etan  |
+| Gen. |   etn    |  etna  |
 | Acc. |   eth    |  etha  |
 | Dat. |   ets    |  etsa  |
 
