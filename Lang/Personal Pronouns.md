@@ -7,7 +7,7 @@ Wislandic personal pronouns are fairly straight forward, but there is an exclusi
 |      | Singular | Plural (in.) | Plural (ex.) |
 | :--: | :------: | :----------: | :----------: |
 | Nom. |   ish    |     ishi     |      em      |
-| Gen. |  ishin   |    ishhe     |     emme     |
+| Gen. |  ishin   |    ishhe     |     nem      |
 | Acc. |   ith    |     ithi     |     them     |
 | Dat. |    is    |     isse     |     ems      |
 

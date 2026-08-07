@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Scratch.md",
+                "file": "Made Up Words/Wislandic/Ish.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scratch"
+              "title": "Ish"
+            }
+          }
+        ]
+      },
+      {
+        "id": "83e1f41c4908826f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebec4625d51a79bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/Personal Pronouns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Pronouns"
             }
           }
         ]
@@ -210,6 +230,10 @@
   },
   "active": "4c6d468cabadcc65",
   "lastOpenFiles": [
+    "Lang/Personal Pronouns.md",
+    "Made Up Words/Wislandic/Ish.md",
+    "Lore/Scratch.md",
+    "Lore/Units, Weights, and Measures.md",
     "Made Up Words/Wislandic/Zenna.md",
     "Made Up Words/Wislandic/Wuthri.md",
     "Made Up Words/Wislandic/Wuth.md",
@@ -232,10 +256,6 @@
     "Made Up Words/Wislandic/Jera.md",
     "Made Up Words/Wislandic/Hinna.md",
     "Made Up Words/Wislandic/Hama.md",
-    "Made Up Words/Wislandic/Daunak.md",
-    "Made Up Words/Wislandic/Autlaki.md",
-    "Made Up Words/Wislandic/Autla.md",
-    "Made Up Words/Wislandic/Antha.md",
     "Made Up Words/Wislandic",
     "Made Up Words",
     "DictionaryRedo",
